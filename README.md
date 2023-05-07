@@ -2,9 +2,9 @@
 
 * [Site web kan caman sɛbɛnni](https://github.com/xxai-doc)
 
-Site web in ɲɛfɛla kode ye open source ye, aw bɛ se ka dɛmɛ don ka bamanankan baarakɛcogo ɲuman kɛ
+Site web in frontend code ye open source ye, aw bɛ se ka dɛmɛ don ka bamanankan baarakɛcogo ɲuman kɛ
 
-* [ɲɛfɛla-kode](https://github.com/xxai-art/web)
+* [Frontend Kode ye](https://github.com/xxai-art/web)
 * [Kanko pakew ka ɲɛsin yɔrɔ bɛɛ ma](https://github.com/xxai-art/web/tree/main/i18n)
 * [Kanko pakew doncogo moduluw kama](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Site web kan caman sɛbɛnni](https://github.com/xxai-doc)
