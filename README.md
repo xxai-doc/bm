@@ -2,7 +2,7 @@
 
 # xxAI.art
 
-* [ɲɛfɛla-kode](https://github.com/xxai-art/web)
+Site web in ɲɛfɛla kode ye open source ye, aw bɛ se ka dɛmɛ don ka bamanankan baarakɛcogo ɲuman kɛ
 
 * [ɲɛfɛla-kode](https://github.com/xxai-art/web)
 * [Kanko pakew ka ɲɛsin yɔrɔ bɛɛ ma](https://github.com/xxai-art/web/tree/main/i18n)
