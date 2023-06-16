@@ -1,10 +1,10 @@
 <p align="center"><a href="https://xxai.art"><img src="https://cdn.jsdelivr.net/gh/xxai-art/doc/logo.svg"/></a><br/><a href="https://xxai.art"><img src="https://cdn.jsdelivr.net/gh/xxai-art/doc/xxai.svg"/></a></p><p align="center"><a href="https://github.com/xxai-art/doc#readme"><img alt="I18N" src="https://cdn.jsdelivr.net/gh/wactax/img/t.svg"/></a>　<a href="https://groups.google.com/u/0/g/xxai-art"><img alt="Google Groups" src="https://cdn.jsdelivr.net/gh/wactax/img/g-groups.svg"/></a></p>
 
-# xxAI.art
+A ka ɲi ka nodejs, [direnv](https://direnv.net) , [bun](https://github.com/oven-sh/bun) sigi fɔlɔ, o kɔfɛ `direnv allow` donna ɲɛbilasɛbɛn kɔnɔ ( [.envrc](https://github.com/xxai-art/doc/blob/main/.envrc) bɛna baara kɛ a yɛrɛma ɲɛbilasɛbɛn donlen kɔfɛ).
 
-Site web kode yɔrɔ dɔ ye open source ye, aw ni ce walasa ka dɛmɛ don ka bamanankan baarakɛcogo ɲɛ.
+O kɔrɔ ye ko: Sinuwakan bamanankan na Zapɔnkan, Korekan, Angilɛkan, Angilɛkan bamanankan na kan tɔw bɛɛ la. Ni aw b’a fɛ ka Sinuwakan ni Angilɛkan dɔrɔn de dɛmɛ, aw bɛ se ka `zh: en` sɛbɛn dɔrɔn.
 
-## ɲɛfɛla-kode
+O kɔrɔ ye ko: Sinuwakan bamanankan na Zapɔnkan, Korekan, Angilɛkan, Angilɛkan bamanankan na kan tɔw bɛɛ la. Ni aw b’a fɛ ka Sinuwakan ni Angilɛkan dɔrɔn de dɛmɛ, aw bɛ se ka `zh: en` sɛbɛn dɔrɔn.
 
 * [ɲɛfɛla-kode](https://github.com/xxai-art/web)
 * [Kanko pakew ka ɲɛsin yɔrɔ bɛɛ ma](https://github.com/xxai-art/web/tree/main/i18n)
@@ -31,15 +31,15 @@ Aw ye jɔ nin porozɛ 3 ninnu kan
 
 ### Sɛbɛnw bamanankan baarakɛcogo otomatiki cikanw
 
-Aw ye gafemarayɔrɔ lajɛ [xxai-art/doc](https://github.com/xxai-art/doc)
+Aw ye kode marayɔrɔ lajɛ [xxai-art/doc](https://github.com/xxai-art/doc)
 
-A ka ɲi ka nodejs, [direnv](https://direnv.net) ani [bun](https://github.com/oven-sh/bun) sigi fɔlɔ, ka sɔrɔ ka `direnv allow` boli i donna ɲɛbilasɛbɛn kɔnɔ.
+A ka ɲi ka nodejs, [direnv](https://direnv.net) , [bun](https://github.com/oven-sh/bun) sigi fɔlɔ, o kɔfɛ `direnv allow` donna ɲɛbilasɛbɛn kɔnɔ ( [.envrc](https://github.com/xxai-art/doc/blob/main/.envrc) bɛna baara kɛ a yɛrɛma ɲɛbilasɛbɛn donlen kɔfɛ).
 
-Walasa ka n yɛrɛ tanga depo belebelebaw ma minnu bamanankanna kan kɛmɛ caman na, n ye kode marayɔrɔ danfaralen dɔ da kan kelen-kelen bɛɛ kama, ka jɛkulu dɔ dabɔ walasa ka o fɛnmarayɔrɔ in mara
+Walasa ka n yɛrɛ tanga kode basigilenba ma min bamanankanna kan kɛmɛ caman na, n ye kode basigi danfaralen dɔ da kan kelen-kelen bɛɛ kama ani ka jɛkulu dɔ dabɔ walasa ka kode basigilen mara
 
-Lamini fɛn caman sɛgɛsɛgɛli `GITHUB_ACCESS_TOKEN` sigili ka sɔrɔ ka [create.github.coffee](https://github.com/xxai-art/doc/blob/main/create.github.coffee) boli, o bɛna fɛnmarayɔrɔ da a yɛrɛma.
+Lamini fɛn caman sɛgɛsɛgɛli `GITHUB_ACCESS_TOKEN` sigili ka sɔrɔ ka [create.github.coffee](https://github.com/xxai-art/doc/blob/main/create.github.coffee) boli, o bɛna kode marayɔrɔ da a yɛrɛma.
 
-Tiɲɛ don, aw bɛ se k’a bila fana fɛnmarayɔrɔ dɔ la.
+Tiɲɛ don, i bɛ se k’a bila fana kode basigilen dɔ kɔnɔ.
 
 Bamanankan baarakɛcogo ɲɛfɔli [run.sh](https://github.com/xxai-art/doc/blob/main/run.sh)
 
@@ -71,4 +71,8 @@ Google API bɛ baara kɛ ni bamanankan baara fu ye. Ni i tɛ se ka don Google la
 export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
 ```
 
-Bamanankan-falen-falen-sɛbɛn bɛna bamanankan-falen-falen-sɛbɛn dɔ Dabɔ `.i18n` ɲɛbilasɛbɛn kɔnɔ, i k’a Lajɛ ni `git status` k’a Fàra kode marayɔrɔ kan walasa ka bamanankan-bamanankan segin-seginw bali.
+Bamanankan-falen-falen-sɛbɛn bɛna bamanankan-falen-falen-sɛbɛn dɔ Bɔ `.i18n` ɲɛbilasɛbɛn kɔnɔ, i k’a Lajɛ ni `git status` ye k’a Fàra kode marayɔrɔ kan walasa ka i yɛrɛ tanga bamanankan bamanankan segin-segin ma.
+
+Aw ye `bunx i18n` boli tuma o tuma n’aw bɛ bamanankan baarakɛcogo sɛmɛntiya walasa ka cache kura.
+
+Ni sɛbɛnni fɔlɔ ni bamanankan bamanankan bε Yεlεma waati kelen na, cache bεna bεn, o la n’i b’a fɛ ka bεnkansεbεn, i bɛ Se ka kelen dɔrɔn bεε Lakodɔn, ka sɔrɔ ka `bunx i18n` boli walasa ka cache (dakun) kura ye.
