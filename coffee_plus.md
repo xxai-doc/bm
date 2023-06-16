@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , i ka fɛn dɔw fara a kan ka da kafesɛbɛnni kumasenw kan, i ka [coffee_plus](./coffee_plus.md) lajɛ.
 
-* declare fɛn caman b’a la
+## declare fɛn caman b’a la
 
 ```
 + var1, var2
 ```
 
-* deklarasiyɔn taamasiyɛn
+## deklarasiyɔn taamasiyɛn
 
 `:$` ye baara ye ni [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) ye .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* teliya la ka don a kɔnɔ
+## teliya la ka don a kɔnɔ
 
 ```
 > zx/globals:
