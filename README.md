@@ -17,14 +17,14 @@ Porogaramukan min bɛ ɲɛfɛ, o ye [@w5/coffee_plus](http://npmjs.com/@w5/coffe
 
 Aw ye jɔ nin porozɛ 3 ninnu kan
 
-### [@w5/mdt ye](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt ye](https://www.npmjs.com/package/@w5/mdt)
 
-Markdown template, n’a kɔfɛta ye `.mdt` , o bɛ se ka ɲɛsin kɛnɛma dosiyew ma minnu sigicogo bɛ tali kɛ `<+ ./coffee_plus/import.js>` .
+  O kɔfɛko ye `.mdt` ye, i bɛ se ka baara kɛ ni daɲɛgafe ye min ni `<+ ./coffee_plus/import.js>` bɛ tali kɛ ɲɔgɔn na walasa ka kɛnɛma dosiyew kofɔ, ani ka markdown lawuli ni `.md` kɔfɛta ye.
 
-[@w5/trmd ye](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd ye](https://www.npmjs.com/package/@w5/trmd)
 
-Markdown bamanankan bamanankan tɛna kodɔn ni jɛgɛnsira baara, wa a bɛna kumasen bamanankan na. Ni bamanankan bayɛlɛmani b’a la, nka sɛbɛnni fɔlɔ ma ladilan, n’i y’a waleya kokura, o tɛna bamanankan bamanankan sɛmɛntiyalen sɛbɛn.
+  Markdown bamanankan bamanankan tɛna kodɔn ni jɛgɛnsira baara, wa a bɛna kumasen bamanankan na. Ni bamanankan bayɛlɛmani b’a la, nka sɛbɛnni fɔlɔ ma ladilan, n’i y’a waleya kokura, o tɛna bamanankan bamanankan sɛmɛntiyalen sɛbɛn.
 
-[@w5/i18n ye](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n ye](https://www.npmjs.com/package/@w5/i18n)
 
-Kanko dosiyew ka `yaml` sitiw bamanankan na.
+  Kanko dosiyew ka `yaml` sitiw bamanankan na.
